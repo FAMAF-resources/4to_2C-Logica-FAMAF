@@ -20,10 +20,9 @@
 | Algoritmos y Estructuras de Datos II   | Aprobada     |
 | Introduccion a la Logica y la Computacion   | Aprobada     |
 
-
 ## Es correlativa de:
 
-- Ninguna.
+- Lenguajes y Compiladores.
 
 ## Clonar el repositorio
 
