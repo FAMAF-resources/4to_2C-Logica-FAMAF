@@ -38,6 +38,12 @@ git clone --recurse-submodules https://github.com/FAMAF-resources/4to_2C-Logica-
 git clone --recurse-submodules git@github.com:FAMAF-resources/4to_2C-Logica-FAMAF.git
 ```
 
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
+```
+
 # Contribuciones
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio.
